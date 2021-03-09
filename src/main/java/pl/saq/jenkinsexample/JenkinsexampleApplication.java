@@ -11,6 +11,6 @@ public class JenkinsexampleApplication {
     }
 
     public int adder(int a, int b){
-        return a * b;
+        return a + b;
     }
 }
